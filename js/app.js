@@ -10,7 +10,6 @@ var cards = ['fa fa-diamond', 'fa fa-diamond', 'fa fa-paper-plane-o', 'fa fa-pap
 var openCard = [];
 var moves = 0;
 var matchFound = 0;
-var starts = 3;
 var startGame = 0;
 var starRating = "3";
 var timer;
